@@ -2,10 +2,10 @@
 schemaVersion = "0.0.1"
 
 [package]
-namespace = "TeamName"
-name = "PackageName"
-description = "Example mod description"
-websiteUrl = "https://github.com/funlennysub/MycopunkModTemplate"
+namespace = "hunkyburrito"
+name = "NoRoll"
+description = "Disables roll animation"
+websiteUrl = "https://github.com/hunkyburrito/MycopunkNoRoll"
 containsNsfwContent = false
 
 [package.dependencies]
@@ -17,8 +17,8 @@ readme = "README.md"
 outdir = "build"
 
 [[build.copy]]
-source = "bin/Release/net48/MycopunkModTemplate.dll"
-target = "BepInEx/plugins/MycopunkModTemplate.dll"
+source = "bin/Release/net48/NoRoll.dll"
+target = "BepInEx/plugins/NoRoll.dll"
 
 [[build.copy]]
 source = "CHANGELOG.md"

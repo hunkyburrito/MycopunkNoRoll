@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MycopunkModTemplate", "MycopunkModTemplate.csproj", "{D41B8B3F-7C62-4349-9D5E-8578E6EDEFCC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoRoll", "NoRoll.csproj", "{D41B8B3F-7C62-4349-9D5E-8578E6EDEFCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
